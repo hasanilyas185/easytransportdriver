@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012634935907",
+    "project_id": "easy-transport-a0352",
+    "storage_bucket": "easy-transport-a0352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012634935907:android:2092f901092ec7f687ce56",
+        "android_client_info": {
+          "package_name": "com.example.easy_transport_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACz3Sqs0CTHOXTnoeP1r74UrhrzrAJgjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
